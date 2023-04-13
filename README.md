@@ -4,6 +4,5 @@
 
 Vue3 + Typescript + pinia 사용
 
-npm i pinia
 
-npm i axios
+pinia 와 axios install 필요
