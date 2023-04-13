@@ -5,4 +5,5 @@
 Vue3 + Typescript + pinia 사용
 
 npm i pinia
+
 npm i axios
