@@ -1,8 +1,27 @@
-# news-pinia
+# News-pinia
 
-캡틴판교님의 newsApp을 마이그레이션 및 리펙토링 한 프로젝트
+## Project setup
+```
+npm install
+npm install axios
+npm install pinia
+npm install vue-router@4
+```
 
-Vue3 + Typescript + pinia 사용
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
+### Compiles and minifies for production
+```
+npm run build
+```
 
-pinia 와 axios install 필요
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
